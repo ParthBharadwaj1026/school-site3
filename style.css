@@ -1,0 +1,64 @@
+#h1{
+    text-align: left;
+}
+#contactus iframe{
+    width: 65%;
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    text-shadow: none;
+}
+#campus{
+    text-align: left;    
+}
+html{
+    scroll-behavior: smooth;
+}
+.acheive_head{
+    font-size: 25px;
+    padding: 6px 22px;
+    border-radius:20px;
+    margin-bottom: 15px;
+}
+.acheive_head i{
+    float: right;
+}
+.acheive_text span{
+    color: yellow;
+}
+#taem{
+   margin-bottom: 250px;
+}
+#science_fair{
+   margin-bottom: 240px;
+}
+#best_school{
+   margin-bottom: 240px;
+}
+.campus_main{
+    border: 1px solid grey;
+    width: 33.3px;
+    padding: 5px;
+    float: left;
+}
+.campus_main img{
+    width: 20%;
+}
+.campus_main hr{
+    width: 4000px;
+}
+.campus_main h5,.campus_main p,.campus_main h4{
+    text-align: center;
+}
+/*#cafe{
+    width: 20%;
+}
+#onile{
+    width: 20%;
+}*/
+.yes{
+    margin-top: 60px;
+}
+
